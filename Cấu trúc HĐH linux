@@ -1,2 +1,3 @@
 Kiến trúc tổng quan HĐH Linux được chia làm 3 thành phần: Kernel, Shell, Applications.
-1) Kernel:
+1) Kernel(nhân ): Đây là thành phần quan trọng được ví như trái tim của HĐH, phần kernel chứa các module, thư viện để quản lý và giao tiếp với phần cứng và các ứng dụng.
+
